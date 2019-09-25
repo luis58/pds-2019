@@ -1,4 +1,4 @@
-load_data <- function () {} 
+load_data <- function (filename_path) {data <- read.csv(file=filename_path, header=TRUE, sep=",")} 
 
 clean_data <- function () {} 
 
