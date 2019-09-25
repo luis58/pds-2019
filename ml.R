@@ -1,6 +1,6 @@
 load_data <- function () {} 
 
-clean_data <- function () {} 
+clean_data <- function () {} #limpiar datos 
 
 store_data <- function () {} 
 
