@@ -4,4 +4,4 @@ clean_data <- function () {}
 
 store_data <- function () {} 
 
-run_ml_pipeline <- function () {} 
+run_ml_pipeline <- function () {#Modifiqué la función 4} 
